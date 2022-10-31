@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nguyễn Lê Thanh
 - 👀 I’m interested in AI 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=BluzOtter)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
