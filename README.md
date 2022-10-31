@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Nguyễn Lê Thanh
-- 👀 I am very interested in the applications of AI and machine learning applications. Experience in Machine Learning, Computer Vision, OCR, NLP, and Bigdata. Desire to put the ideas in scientific research articles into practice by applying them to the website platform.
+## 👀 I am very interested in the applications of AI and machine learning applications. Experience in Machine Learning, Computer Vision, OCR, NLP, and Bigdata. Desire to put the ideas in scientific research articles into practice by applying them to the website platform.
 - 👨‍💻 My project is https://github.com/BluzOtter
 - 📫 Connect with me: thanhnluit@gmail.com 
 
