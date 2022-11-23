@@ -4,7 +4,7 @@
 
 👉 Connect with me: https://www.facebook.com/tryphena.leii
 
-📫 Email me: thanhnluit@gmail.com 
+📫 Email: thanhnluit@gmail.com 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BluzOtter)](https://github.com/ryo-ma/github-profile-trophy)
 
