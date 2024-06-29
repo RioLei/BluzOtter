@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Thanh Nguyen Le, common name is Alice (Japanese name is Akemi)
 ## 👀 I'm very interesting in the applications of AI and machine learning applications. Experience in Machine Learning, Computer Vision, OCR, NLP, and Bigdata. Desire to put the ideas in scientific research articles into practice by applying them to the website platform.
-👨‍💻 My project is https://github.com/RioLei
+👨‍💻 My project is https://github.com/akemi0301
 
 👉 Connect with me: https://www.facebook.com/kuromi.rio
 
